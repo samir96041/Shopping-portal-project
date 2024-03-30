@@ -1,5 +1,5 @@
 # shopping portal project
- shopping portal project with RESTful API using Node.js, Express.js, MongoDB...
+ shopping portal project with RESTful API using Node.js, Express.js, MongoDB... 
 
 ## 🔗 Hosted link
 
